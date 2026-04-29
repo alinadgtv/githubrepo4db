@@ -1,1 +1,2 @@
 print("ping") 
+print("pong")
